@@ -1,4 +1,5 @@
 var builder = WebApplication.CreateBuilder(args);
+//WebApplication class : it used to configure the HTTP pipeline and routes
 
 // Add services to the container.
 
