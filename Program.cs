@@ -20,5 +20,7 @@ app.UseAuthorization();
 
 app.MapControllers();
 */
+app.Urls.Add("http://localhost:3000");
+app.Urls.Add("http://localhost:4000");
 app.MapGet("/", ()=>"Hello World");
-app.Run("http://localhost:3000");
+app.Run();
