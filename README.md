@@ -10,3 +10,5 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetco
 History:
 dotnet new webapi
 Add the dockerfile
+
+curl -X GET "http://localhost:3000"
