@@ -7,6 +7,10 @@ Documentation
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio
 
+try dapper for dotnet mapping 
+https://github.com/DapperLib/Dapper
+
+
 History:
 dotnet new webapi
 Add the dockerfile
