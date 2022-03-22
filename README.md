@@ -14,3 +14,5 @@ https://github.com/DapperLib/Dapper
 History:
 dotnet new webapi
 Add the dockerfile
+
+nice blog https://chipwired.com for raspberry pi
