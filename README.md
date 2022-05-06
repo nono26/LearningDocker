@@ -21,3 +21,6 @@ nice blog https://chipwired.com for raspberry pi
 
 min API 
 https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0
+
+nice blog
+https://www.stevejgordon.co.uk
